@@ -220,38 +220,38 @@ header .social-info li a:hover {
 #service .block p {
   color: #666;
 }
-#feature {
+.feature {
   padding: 120px 0;
 }
-#feature .title {
+.feature .title {
   font-weight: 300;
 }
-#feature .feature-item {
+.feature .feature-item {
   margin-top: 40px;
 }
-#feature .feature-item:first-child {
+.feature .feature-item:first-child {
   margin-top: 0;
 }
-#feature .feature-item .icon {
+.feature .feature-item .icon {
   padding-right: 22px;
 }
-#feature .feature-item .icon i {
+.feature .feature-item .icon i {
   color: #f48e5c;
   font-size: 30px;
 }
-#feature .feature-item h4 {
+.feature .feature-item h4 {
   color: #f48e5c;
   margin-bottom: 0;
   font-weight: 300;
   margin-bottom: 8px;
 }
-#feature .feature-item p {
+.feature .feature-item p {
   color: #9499a2;
 }
-#feature .block {
+.feature .block {
   text-align: center;
 }
-#feature .block img {
+.feature .block img {
   display: inline-block;
 }
 #utility {
